@@ -1,5 +1,8 @@
 # 💰 Real Estate Data Control Tower | Tour de Contrôle & Prévision Budgétaire 🟢 Live App
 
+> *🇺🇸 A predictive financial forecasting tool (Time Series) for Real Estate Asset Management.*
+> *🇫🇷 Un outil de prévision budgétaire et d'aide à la décision propulsé par l'IA.*
+
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://cash-flow-forecast-portfolio-ofk.streamlit.app/)
 ![Prophet](https://img.shields.io/badge/Model-Facebook_Prophet-blue)
 ![Plotly](https://img.shields.io/badge/Viz-Plotly_Interactive-orange)
