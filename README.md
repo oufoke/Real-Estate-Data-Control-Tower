@@ -1,7 +1,6 @@
-[![Live Demo](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://cash-flow-forecast-portfolio-ofk.streamlit.app/)
 # 💰 Météo Trésorerie : Anticipation du Cash-Flow par IA
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([VOTRE_LIEN_STREAMLIT_ICI])
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://cash-flow-forecast-portfolio-ofk.streamlit.app/)
 ![Prophet](https://img.shields.io/badge/Model-Facebook_Prophet-blue)
 ![Plotly](https://img.shields.io/badge/Viz-Plotly_Interactive-orange)
 
